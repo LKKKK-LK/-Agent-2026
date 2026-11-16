@@ -92,7 +92,6 @@ python api_server.py
 ```
 
 ### 4. 打开使用
-浏览器访问：**http://localhost:8000**
 
 ---
 
